@@ -1,4 +1,4 @@
-# AIED2025
+# Resource allocation to unknown tasks
 Dynamic Allocation of Human Resources for Multi-attempt Tasks
 
 Abstract: In this paper, we study a generalization of the task allocation
